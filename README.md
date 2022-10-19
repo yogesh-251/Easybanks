@@ -1,2 +1,2 @@
-# Easybanks
-Challenge by Frontend Mentor. Landing page as a challange by Frontend Mentor. [Just for learning purpose]. Open index.html to view in your browser.
+## [Easybanks](https://yogesh-251.github.io/Easybanks/)
+Challenge by Frontend Mentor. Landing page as a challange by Frontend Mentor. For learning purpose. Click [here](https://yogesh-251.github.io/Easybanks/) to view in your browser.
